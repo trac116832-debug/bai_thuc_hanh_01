@@ -5,7 +5,7 @@ Output: BCNN của a và b
 Ví dụ:
 
 Input: 4, 12
-///Output: 12
+/// Output: 12
 
 Giải thích
 
